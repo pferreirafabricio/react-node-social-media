@@ -9,7 +9,7 @@
 <img src="/projectImages/tela-encontrar.png" width="1000px"></img>
 <hr/>
 <img src="/projectImages/tela-admin.png" width="1000px"></img>
-
+<hr/>
 
 ## :man_technologist: Tecnologias usadas
 
