@@ -3,8 +3,11 @@
 ## :eyes: Como ficou?
 
 <img src="/projectImages/tela-home.png" width="1000px"></img>
+<hr/>
 <img src="/projectImages/tela-profile.png" width="1000px"></img>
+<hr/>
 <img src="/projectImages/tela-encontrar.png" width="1000px"></img>
+<hr/>
 <img src="/projectImages/tela-admin.png" width="1000px"></img>
 
 
