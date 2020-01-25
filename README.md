@@ -3,8 +3,7 @@
 <!-- ## :eyes: Como ficou?
 
 <img src="/projectImages/tela-cadastro.png" width="1000px"></img>
-<img src="/projectImages/tela-mobile.png" width="auto" height="400px"></img>
-<img src="/projectImages/tela-github.png" width="auto" height="400px"></img> -->
+ -->
 
 ## :man_technologist: Tecnologias usadas
 
