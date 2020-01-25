@@ -1,9 +1,12 @@
 # Social Media com React e Node :busts_in_silhouette:
 
-<!-- ## :eyes: Como ficou?
+## :eyes: Como ficou?
 
-<img src="/projectImages/tela-cadastro.png" width="1000px"></img>
- -->
+<img src="/projectImages/tela-home.png" width="1000px"></img>
+<img src="/projectImages/tela-profile.png" width="1000px"></img>
+<img src="/projectImages/tela-encontrar.png" width="1000px"></img>
+<img src="/projectImages/tela-admin.png" width="1000px"></img>
+
 
 ## :man_technologist: Tecnologias usadas
 
