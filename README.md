@@ -20,8 +20,9 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :computer: Sobre o projeto
 
-O projeto foi desenvolvido durante o curso [MERN Stack - React Node from Scratch Building Social Network](https://www.udemy.com/course/node-react/) e com a ajuda do instrutor [Ryan Dhungel](https://github.com/kaloraat). <br/>
-O mesmo consiste em uma réplica simples, para fins de aprendizado e prática, das funcionalidades mais comuns de uma rede social, tais como: seguir/deixar de seguir, criar/excluir/alterar posts, comentar, like, entre outras. 
+O projeto consiste em uma réplica simples, para fins de aprendizado e prática, das funcionalidades mais comuns de uma rede social, tais como: seguir/deixar de seguir, criar/excluir/alterar posts, comentar, like, entre outras.<br/>
+O mesmo foi desenvolvido durante o curso [MERN Stack - React Node from Scratch Building Social Network](https://www.udemy.com/course/node-react/) e com a ajuda do instrutor [Ryan Dhungel](https://github.com/kaloraat).<br/>
+-> [CERTIFICADO](https://www.udemy.com/certificate/UC-1WOIJV69/)
 
 ## :memo: Licença
 
